@@ -22,3 +22,5 @@ console.log(chalk.blue(value));
 const log = console.log;
 const promise = new Promise(resolve => resolve(30));
 promise.then(val => log(chalk.red(val)));
+
+// const cc = [];

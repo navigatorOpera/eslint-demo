@@ -48,3 +48,4 @@ var promise = new Promise(function (resolve) {
 promise.then(function (val) {
   return log(_chalk.default.red(val));
 });
+var cc = [];
