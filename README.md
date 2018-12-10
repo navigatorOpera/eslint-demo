@@ -1,6 +1,6 @@
 # eslint-demo
 
-```javascript```
+```
 
 parser: 'babel-eslint',
   env: {
@@ -27,4 +27,4 @@ parser: 'babel-eslint',
     'no-console': [1]
   }
 
-```javascript```
+```
